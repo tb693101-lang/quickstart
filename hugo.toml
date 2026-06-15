@@ -1,8 +1,11 @@
 baseURL = 'https://exemple.org/'
 locale = 'en-fr'
-title = 'Mon Premier Post Code'
+title = 'Mon Premier Post Code!'
 theme = 'ananke'
 [deployment]
   [[deployment.targets]]
     name = 'production'
     url = 's3://my_bucket?region=fr-1'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

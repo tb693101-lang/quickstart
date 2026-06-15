@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Mon Premier Post Code</title>
+		<title>Mon Premier Post Code!</title>
 		<link>https://exemple.org/</link>
-		<description>Recent content on Mon Premier Post Code</description>
+		<description>Recent content on Mon Premier Post Code!</description>
 		<generator>Hugo</generator>
 		<language>en-fr</language>
 		
